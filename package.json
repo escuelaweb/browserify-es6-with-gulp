@@ -1,0 +1,20 @@
+{
+  "name": "escuelaweb-browserify-es6-with-gulp",
+  "version": "1.0.0",
+  "description": "Como usar ES2015 and browserify con tareas Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Marin",
+  "license": "ISC",
+  "devDependencies": {
+    "babelify": "^6.3.0",
+    "browserify": "^11.2.0",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-webserver": "^0.9.1",
+    "jquery": "^2.1.4",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
